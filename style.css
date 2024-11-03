@@ -16,3 +16,19 @@ body{
 button{
     border-radius: 40%;
 }
+.heading h1{
+   
+    width: 40%;
+    font-size: 70px;
+    padding-left:80px;
+}
+
+.heading{
+    display:flex;
+}
+
+.heading img{
+    width:40%;
+    height: 30%;
+    padding-top:30px;
+}
